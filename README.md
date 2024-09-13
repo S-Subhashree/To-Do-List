@@ -31,7 +31,7 @@ static/style.css
 ## 5. Running your Application:
 To run your Flask application, execute the following command in your terminal:
 **python app.py**
-Open your web browser and go to http://127.0.0.1:5000 to see your "To Do List" app in action.
+Open your web browser and go to given link to see your "To Do List" app in action.
 
 ### Installation
 
