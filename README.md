@@ -14,8 +14,8 @@ todo_list/
 │   ├── style.css
 │
 └── templates/
-    └── index.html
-    
+└── index.html
+
 ## 2. Python (Flask) Setup:
 We'll use Flask, a lightweight web framework for Python.
 
