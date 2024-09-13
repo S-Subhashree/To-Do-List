@@ -1,7 +1,7 @@
 # To-Do List Project
 
 ## Overview:
-To create a "To Do List" application using Python with HTML and CSS, you'll typically want to break down the project into several components. Below is a high-level overview and example code snippets to help you get started.
+To create a "To Do List" application using Python with HTML and CSS, here is the overview of this project to help you get started.
 
 ## 1. Project Structure:
 
