@@ -38,7 +38,7 @@ Open your web browser and go to http://127.0.0.1:5000 to see your "To Do List" a
 **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/S-Subhashree/Restaurant-Landing-Page.git
+   git clone https://github.com/S-Subhashree/To-Do-List.git
 **Summary:**
 
 This example sets up a simple "To Do List" web application with Flask, HTML, and CSS. The Flask app handles adding and deleting tasks, while the HTML provides the structure and the CSS adds styling to the application.
